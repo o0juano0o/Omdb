@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    [
+      "import",
+      {
+        "libraryName": "antd",
+        "style": true
+      }
+    ]
+  ],
+  "theme": {
+    "primary-color": "red",
+    "color-text-base": "#333"
+  }
+}
